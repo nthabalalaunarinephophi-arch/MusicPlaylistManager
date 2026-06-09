@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MusicPlaylistManager</string>
+    <string name="title_activity_detailedview">Detailedview</string>
+    <string name="title_activity_detailed">Detailed</string>
 </resources>
